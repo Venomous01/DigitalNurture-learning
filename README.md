@@ -1,2 +1,3 @@
-# Week-2
-Pl/sql and unittesting completed in single file
+# Week-3
+Spring core and spring data jpa completed and in week3 folder 
+
